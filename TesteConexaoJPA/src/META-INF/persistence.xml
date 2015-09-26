@@ -11,9 +11,9 @@
 
 		<properties>
 		
-			<property name="hibernate.connection.url" value="jdbc:oracle:thin:@10.11.255.236:1521:dthpr" />
-			<property name="hibernate.connection.username" value="PROD_JD" />
-			<property name="hibernate.connection.password" value="TACO" />
+			<property name="hibernate.connection.url" value="jdbc:oracle:thin:@127.0.0.1:1521:dthpr" />
+			<property name="hibernate.connection.username" value="USER" />
+			<property name="hibernate.connection.password" value="senha" />
 			<property name="hibernate.dialect" value="org.hibernate.dialect.Oracle9iDialect"/>
 			<property name="hibernate.show_sql" value="true"/>
 
